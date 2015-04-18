@@ -303,8 +303,6 @@
 					</div>
 				</div>
 			</div>
-
-
 		</div>
 	</div>
 
@@ -495,6 +493,17 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="col-md-12 wow fadeInUp" data-wow-delay="600ms">
+				<div class="featured-content-box text-center">
+
+					<script>
+						gc_id = 1; //the script id you want to embed, you can get this in its url
+						gc_width = 700; //The iframe's width
+						gc_height = 700;  //The iframe's height
+					</script>
+					<script language="javascript" src="http://groovyconsole.appspot.com/js/embed.js"></script>
+
 			</div>
 
 		</div>
