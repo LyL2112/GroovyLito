@@ -232,7 +232,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
-				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Nosotros?</span></h2>
+				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Nosotros</span></h2>
 				<p class="lead wow fadeInUp"  data-wow-delay="600ms">GroovyLito está dirigido a personas que necesiten alcanzar este conocimiento para
 				iniciar con los proyectos que estén relacionados con el desarrollo de software, de tal
 				manera que sea un servicio de apoyo directo, rápido y eficaz.:</p>
@@ -295,7 +295,7 @@
 					<div class="featured-content-box text-center">
 						<i class="tn-dashboard ico-lg text-info"></i>
 
-						<h3>Proposito 5</h3>
+						<h3>Proposito 6</h3>
 						<p>Los diversos contenidos que se encuentran en la aplicación tendrá
 						diversas formas de presentación, una de ellas es un ambiente decodificación
 						online en la que se tendrá control de progreso y conocimiento en GroovyLito.</p>
@@ -497,6 +497,8 @@
 			<div class="col-md-12 wow fadeInUp" data-wow-delay="600ms">
 				<div class="featured-content-box text-center">
 
+					<!-- Script de Presentacion de la consola de Groovy -->
+
 					<script>
 						gc_id = 1; //the script id you want to embed, you can get this in its url
 						gc_width = 700; //The iframe's width
@@ -515,7 +517,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
 				<h2 class="header-boxed  wow zoomIn" data-wow-iteration="1"><span>Planes</span></h2>
-				<p class="lead wow fadeInUp" data-wow-delay="200ms">Si usted es una persona que busca ser cada dia mejor en lo que hace, le afrocemos los planes para que profundice en Groovy a un nivel BRUTAL!!!:</p>
+				<p class="lead wow fadeInUp" data-wow-delay="200ms">Si usted es una persona que busca ser cada dia mejor en lo que hace, le ofrecemos los planes para que profundice en Groovy a un nivel BRUTAL!!!</p>
 			</div>
 
 			<div class="col-md-12">
@@ -599,9 +601,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
-				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contactenos?</span></h2>
+				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contáctanos</span></h2>
 				<p class="lead">GroovyLito también busca fortalecer la comunicación entre los usuarios y
-				la web Máster, en la que el conocimiento sea todos:</p>
+				la web Máster, en la que el conocimiento sea de todos:</p>
 			</div>
 			<div class="col-md-6">
 				<div class="contact-form wow fadeInLeft">
