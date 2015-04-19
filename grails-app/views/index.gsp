@@ -6,15 +6,32 @@
 	<title> GroovyLito</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 	<link rel="stylesheet" href="css/bootstrap.css" media="screen">
 	<link rel="stylesheet" href="skins/eden.css" media="screen">
 	<link rel="stylesheet" href="css/style.css" media="screen">
 	<link href="fonts/icons/icons.css" rel="stylesheet">
 	<link href="css/animate.css" rel="stylesheet">
 
-</head>
-<body   data-spy="scroll" data-target="#topnav"  id="top">
 
+
+	<!-- CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="assets/css/simple-line-icons.css" rel="stylesheet" media="screen">
+	<link href="assets/css/animate.css" rel="stylesheet">
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+	<script src="assets/js/modernizr.custom.js"></script>
+
+
+
+
+
+</head>
+
+
+<body   data-spy="scroll" data-target="#topnav"  id="top">
 <section class="header-area-home" id="header-area-home">
 	<div id="main-nav-container">
 		<div  class="container">
@@ -50,6 +67,7 @@
 		</div>
 	</div>
 	<div id="featured-slider-container">
+
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -676,7 +694,6 @@
 		</div>
 	</div>
 </section>
-
 <footer>
 	<div class="container">
 		<div class="row">
@@ -693,12 +710,8 @@
 			</div>
 		</div>
 	</div>
-
 	<br/><br/>
 </footer>
-
-
-
 <script src="js/jquery-2.1.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.sticky.js"></script>
